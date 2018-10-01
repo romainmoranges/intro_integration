@@ -61,7 +61,7 @@ div.form form select{
 div.form form textarea{
     min-width: 100%;
     max-width: 100%;
-    height: 100%;
+    height: 250px;;
 }
 
 div.form form button{
@@ -84,4 +84,13 @@ div.carousel img{
 
 footer{
     background-color: silver;
+    display: flex;
+}
+
+footer.un{
+    width:90%;
+}
+
+footer.deux{
+    width:10%;
 }
