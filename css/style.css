@@ -3,6 +3,7 @@
     padding: 0px;
 }
 
+
 header{
     background-color: darkblue;
 }
@@ -93,4 +94,8 @@ footer.un{
 
 footer.deux{
     width:10%;
+}
+
+footer img{
+    width: 50%;
 }
